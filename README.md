@@ -38,7 +38,7 @@ subsampling (`MAX_TRAIN`, `MAX_VAL`, `MAX_TEST` in the config cell).
 
 ## Running
 Run all cells in order (Runtime ▸ Run all). Section 6 runs the four conditions on all five datasets
-(about 45–90 minutes on a T4) and writes `results/results.csv` after each dataset; if Colab disconnects,
+(about 15–30 minutes on a T4) and writes `results/results.csv` after each dataset; if Colab disconnects,
 re-run Section 6 and it continues from the next unfinished dataset. Section 7 rebuilds the tables and
 figures from the CSV, so the report's numbers can be checked against the committed CSVs without retraining.
 
