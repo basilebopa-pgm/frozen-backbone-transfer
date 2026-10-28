@@ -44,7 +44,4 @@ All randomness is seeded with `SEED = 0` (Python, NumPy, PyTorch, CUDA, data spl
 GPU kernels are not fully deterministic, so a re-run may differ by about ±0.01 macro-F1. The committed
 CSVs are the exact runs reported.
 
-## Mapping to the report
-- Table I: Section 1 split summary
-- Table II and Fig. 2: Section 7, depth profiles (`results/results.csv`)
-- Table III and Fig. 3: Section 7, best-cut summary and value of pretraining (`results/summary.csv`)
+
