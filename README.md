@@ -7,9 +7,6 @@ COMS4036A/COMS7050A Computer Vision project: Mashego Mabeloane (2654606), Basima
 
 ## Contents
 - `resnet50_transfer_project.ipynb`: the whole pipeline (data, probes, end-to-end training, tables, figures)
-- `results/results.csv`: every run (dataset, condition, layer, validation F1, test accuracy, test F1, chosen weight decay)
-- `results/summary.csv`: best-cut summary (Table III of the report)
-- `figures/`: the figures used in the report
 - `requirements.txt`: Python packages
 
 ## Setup
